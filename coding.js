@@ -45,6 +45,12 @@ var ecData = {
     "EV0012": { "name": "Pritmohan Mahesh Bhatti", "department": "R&D", "email": "pritmohan@autolek.com" },
     "C00048": { "name": "Mabood Aryaman", "department": "Business Development", "email": "aryaman.mabood@autolek.com" },
     "A01653": { "name": "Parul Gupta", "department": "Finance", "email": "parulgupta@autolek.com" },
+    "A02391": { "name": "Kunwar Prewash Panwar", "department": "R&D", "email": "kpanwar@autolek.com" },
+    "A02402": { "name": "Arvinder Singh", "department": "Manufacturing Excellence", "email": "arvinder.singh@autoek.com" },
+    "A02400": { "name": "Ranjeet Kumar", "department": "IT", "email": "ranjeet.sharma@autolek.com" },
+    "A02395": { "name": "Hemant Verma", "department": "Battery", "email": "hvjhs@yahoo.co.in" },
+    "A02394": { "name": "Rakesh Kumar", "department": "Battery", "email": "rshrivastav198210@gmail.com" },
+    "A02374": { "name": "Ashok Babu", "department": "R&D", "email": "ashok.babu@autolek.com" },
     "INT003": { "name": "Vikash Singh", "department": "Digitalization", "email": "vikash.singh@autolek.com" }
 
     
