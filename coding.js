@@ -51,7 +51,9 @@ var ecData = {
     "A02395": { "name": "Hemant Verma", "department": "Battery", "email": "hvjhs@yahoo.co.in" },
     "A02394": { "name": "Rakesh Kumar", "department": "Battery", "email": "rshrivastav198210@gmail.com" },
     "A02374": { "name": "Ashok Babu", "department": "R&D", "email": "ashok.babu@autolek.com" },
-    "INT003": { "name": "Vikash Singh", "department": "Digitalization", "email": "vikash.singh@autolek.com" }
+    "A02413": { "name": "Ashwani Singh", "department": "Battery", "email": "ashwani6067@gmail.com.com" },
+    "A02416": { "name": "Lalit", "department": "HR", "email": "lalit.sindhani92@gmail.com" },
+    "A02417": { "name": "Bidhan Kumar Baidya", "department": "Sales & Marketing & Business Development", "email": "bidhanbaidya@rediffmail.com" }
 
     
 
